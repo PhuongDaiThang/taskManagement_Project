@@ -21,22 +21,19 @@ Task Management Application là một ứng dụng quản lý công việc đư�
 ## Cài đặt
 
 1. **Clone Repository**
-
-   
-bash
+``` bash
    git clone https://github.com/PhuongDaiThang/taskmanagement_Project.git
    cd taskmanagement_Project
+```
 
 2. **Cài đặt các phụ thuộc**
-   
-bash
+``` bash
       mvn install
-
+```
 3. **Chạy Ứng Dụng**
-   
-bash
+``` bash
    mvn spring-boot:run
-
+```
 Ứng dụng sẽ chạy trên http://localhost:8080.
 ## Cấu trúc Dự án
 
